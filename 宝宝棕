@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main(){
+printf("最爱宝宝棕“）
+return 0
+}
